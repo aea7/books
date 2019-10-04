@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Swipe to Change Order of Books</string>
+    <string name="error_text">Error Occured While Loading Data.</string>
+</resources>
